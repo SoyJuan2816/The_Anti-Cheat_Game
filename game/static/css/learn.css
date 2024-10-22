@@ -1,0 +1,102 @@
+/* Estilos generales */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('../img/bg_modes/bg_3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Contenedor principal */
+.container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Flecha para regresar */
+.back-button {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.back-icon {
+    width: 50px;
+    height: 50px;
+}
+
+/* Botón de configuración */
+.settings-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.settings-icon {
+    width: 50px;
+    height: 50px;
+}
+
+/* Título */
+.title {
+    font-size: 3rem;
+    color: black;
+    margin-bottom: 20px;
+}
+
+/* Contenedor de cajas */
+.content-boxes {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+}
+
+/* Caja de texto */
+.text-box {
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 40%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.text-label {
+    font-size: 1.5rem;
+    color: black;
+}
+
+/* Caja de imagen */
+.image-box {
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 40%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.image-label {
+    font-size: 1.5rem;
+    color: black;
+}
+
+/* Imagen adicional (loro) */
+.side-image {
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+}
+
+.parrot-image {
+    width: 150px;
+    height: auto;
+}
