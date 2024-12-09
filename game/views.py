@@ -20,7 +20,7 @@ def about(request):
     return render(request, 'about.html')
 
 # Lista de nombres de archivos PDF para la visualización
-PDF_LIST = ["Pirateria_1.pdf", "Pirateria_2.pdf", "Pirateria_3.pdf", "Pirateria_4.pdf"]
+PDF_LIST = ["Pirateria_1.pdf", "Pirateria_4.pdf", "Pirateria_5.pdf", "Pirateria_2.pdf", "Pirateria_3.pdf", "Pirateria_6.pdf"]
 
 def learn_view(request, pdf_index=0):
     # Aseguramos que el índice esté dentro del rango de la lista de PDFs
