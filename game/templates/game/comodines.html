@@ -1,0 +1,99 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}" >
+    <title>Seleccionar Comodines</title>
+    <link rel="stylesheet" href="{% static 'css/comodines.css' %}">
+</head>
+<body
+    data-cofre-cerrado="{% static 'img/Cofre/Cofre_Cerrado.png' %}"
+    data-cofre-poco-abierto="{% static 'img/Cofre/Cofre_Poco_Abierto.png' %}"
+    data-cofre-abierto="{% static 'img/Cofre/Cofre_Abierto.png' %}"
+>
+    <div class="container">
+        <header>
+            <a href="../marathon">
+                <img src="https://cdn-icons-png.flaticon.com/512/5397/5397377.png" alt="back" class="back-arrow">
+            </a>
+            <h1>Selecciona tus Comodines</h1>
+            <a id="button_settings">
+                <img src="{% static 'img/icons/settings-icon.png' %}" alt="settings" class="settings-icon">
+            </a>
+        </header>
+        <form id="comodines-form">
+            <div class="player-section">
+                <h2>Jugador 1</h2>
+                <label id="label1">
+                    <img
+                        id="cofre1"
+                        src="{% static 'img/Cofre/Cofre_Cerrado.png' %}"
+                        alt="Cofre Cerrado"
+                        class="cofre"
+                    >
+                    <input type="checkbox" name="player1" value="Respuesta"> Respuesta
+                </label>
+                <label id="label2">
+                    <img
+                        id="cofre2"
+                        src="{% static 'img/Cofre/Cofre_Cerrado.png' %}"
+                        alt="Cofre Cerrado"
+                        class="cofre"
+                    >
+                    <input type="checkbox" name="player1" value="Cambio de Pregunta"> Cambio de Pregunta
+                </label>
+                <label id="label3">
+                    <img
+                        id="cofre3"
+                        src="{% static 'img/Cofre/Cofre_Cerrado.png' %}"
+                        alt="Cofre Cerrado"
+                        class="cofre"
+                    >
+                    <input type="checkbox" name="player1" value="Duplicar Avance"> Duplicar Avance
+                </label>
+            </div>
+
+            <div class="player-section">
+                <h2>Jugador 2</h2>
+                <label id="label4">
+                    <img
+                        id="cofre4"
+                        src="{% static 'img/Cofre/Cofre_Cerrado.png' %}"
+                        alt="Cofre Cerrado"
+                        class="cofre"
+                    >
+                    <input type="checkbox" name="player2" value="Respuesta"> Respuesta
+                </label>
+                <label id="label5">
+                    <img
+                        id="cofre5"
+                        src="{% static 'img/Cofre/Cofre_Cerrado.png' %}"
+                        alt="Cofre Cerrado"
+                        class="cofre"
+                    >
+                    <input type="checkbox" name="player2" value="Cambio de Pregunta"> Cambio de Pregunta
+                </label>
+                <label id="label6">
+                    <img
+                        id="cofre6"
+                        src="{% static 'img/Cofre/Cofre_Cerrado.png' %}"
+                        alt="Cofre Cerrado"
+                        class="cofre"
+                    >
+                    <input type="checkbox" name="player2" value="Duplicar Avance"> Duplicar Avance
+                </label>
+            </div>
+            <button class="play-button" type="submit">Jugar</button>
+        </form>
+    </div>
+
+    {% include 'config.html' %}
+    <script src="{% static 'js/noBack.js' %}"></script>
+    <script src="{% static 'js/block.js' %}"></script>
+    <script src="{% static 'js/music.js' %}"></script>
+    <script src="{% static 'js/comodines.js' %}"></script>
+    <script src="{% static 'js/block-movil.js' %}"></script>
+</body>
+</html>

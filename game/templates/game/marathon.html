@@ -1,0 +1,82 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}" >
+    <title>Maratón</title>
+    <link rel="stylesheet" href="{% static 'css/marathon.css' %}">
+</head>
+<body>
+    
+    <div class="container">
+        <header>
+            <a href="../select_mode">
+                <img src="https://cdn-icons-png.flaticon.com/512/5397/5397377.png" alt="back" class="back-arrow">
+            </a>
+            <h1>MARATÓN</h1>
+            <a id="button_settings">
+                <img src="{% static 'img/icons/settings-icon.png' %}" alt="settings" class="settings-icon">
+            </a>
+        </header>
+
+        <form method="POST" action="{% url 'select_comodines' %}">
+            {% csrf_token %}
+            <div class="content">
+                <div class="left-panel">
+                    <label class="form_label" for="map-select">MAPAS:</label>
+                    <select id="map-select" name="map">
+                        <option selected>Aleatorio</option>
+                        <option>Barco de barba roja</option>
+                        <option>Fondo del oceano</option>
+                        <option>Isla embrujada</option>
+                        <option>Isla del tesoro</option>
+                    </select>
+                        
+                    <label class="form_label" for="size-select">TAMAÑO:</label>
+                    <select id="size-select" name="size">
+                        <option>25 casillas</option>
+                        <option>50 casillas</option>
+                        <option>80 casillas</option>
+                    </select>
+                </div>    
+                
+                <div class="middle-panel">
+                    <img src="https://cdn.pixabay.com/photo/2013/07/13/14/03/parrot-162039_1280.png" alt="parrot" class="parrot">
+                    <div class="data_player">
+                        <p>Nombre del jugador 1:</p>
+                        <input type="text" class="name_player" required id="player_1">
+                        <p>Nombre del jugador 2:</p>
+                        <input type="text" class="name_player" required id="player_2">
+                    </div>
+                    <button id="playbtn" class="play-button">Continuar</button>
+                </div>
+                    
+                <div class="right-panel">
+                    <label class="form_label" for="difficult-select">DIFICULTAD:</label>
+                    <select id="difficult-select" name="difficulty">
+                        <option>Fácil</option>
+                        <option selected>Normal</option>
+                        <option>Dificil</option>
+                    </select>
+                        
+                    <label class="form_label" for="mode-select">MODO DE JUEGO:</label>
+                    <select id="mode-select" name="mode">
+                        <option selected>Completo</option>
+                        <option>Juego Rápido (5 minutos)</option>
+                        <option>Divertido (10 minutos)</option>
+                    </select>
+                </div>
+            </div>
+        </form>
+    </div>
+    {% include 'config.html' %}
+    
+    <script src="{% static 'js/noBack.js' %}"></script>
+    <script src="{% static 'js/block.js' %}"></script>
+    <script src="{% static 'js/music.js' %}"></script>
+    <script src="{% static 'js/marathonMenu.js' %}"></script>
+    <script src="{% static 'js/block-movil.js' %}"></script>
+</body>
+</html>

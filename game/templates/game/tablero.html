@@ -1,0 +1,89 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}" >
+    <title>Tablero Maratón</title>
+    <link rel="stylesheet" href="{% static 'css/tablero.css' %}">
+</head>
+<body>
+    <div class="game-container" id="game-container">
+        <div class="sidebar">
+            <!-- Botón de Pausa -->
+            <a id="pauseButton">
+                <img src="{% static 'img/icons/pause.png' %}" alt="pausa" class="pausa-icon">
+            </a>
+            <div id="players" class="player-contain">
+                <p id="player1" class="player player-blue">Jugador 1: </p>
+                <p id="player2" class="player player-red">Jugador 2: </p>
+                <h3 id="current-turn"></h3>
+            </div>
+            <div class="difficulty-buttons">
+                <p class="question-title">DIFICULTAD DE LA PREGUNTA</p>
+                <button id="easy" class="easy" disabled>FÁCIL</button>
+                <button id="medium" class="medium" disabled>INTERMEDIO</button>
+                <button id="hard" class="hard" disabled>DIFÍCIL</button>
+            </div>
+            <button id="roll-dice-btn" class="roll-dice" onclick="rollDice()">🎲 Tirar Dado</button>
+            <p id="dice-result"></p>
+        </div>
+        <div class="board-container">
+            <div id="board"></div>
+        </div>
+    </div>
+
+    <!-- Popup para mostrar preguntas y opciones -->
+    <div id="popup" class="popup">
+        <div class="popup-content" id="popup-content">
+            <div id="popup-title">
+                <div id="popup-timer" class="popup-timer">Tiempo restante: <span id="timer-value"></span> segundos</div>
+                <strong>PREGUNTA</strong>
+                <p class="question-text" id="question-text"></p>
+            </div>
+            <div id="popup-options"></div>
+            <div id="popup-comodines" class="popup-comodines">
+                <strong>COMODINES</strong>
+                <!-- Aquí se mostrarán los botones de los comodines -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Popup pequeño para mostrar si la respuesta fue correcta o incorrecta -->
+    <div id="answer-popup" class="answer-popup">
+        <div id="answer-message"></div>
+    </div>
+
+    <!-- Popup del ganador -->
+    <div id="winner-popup" class="popup-winer hidden">
+        <div class="popup-content-winer">
+            <h2 id="winner-message">Felicidades, el ganador es (Nombre del jugador en turno)</h2>
+            <button id="close-popup">Cerrar</button>
+        </div>
+    </div>
+
+    <div id="game-header" class="floating-header">
+        <span id="game-mode"></span>
+        <span id="game-timer"></span>
+    </div>
+
+    <!-- Popup de Pausa -->
+    <div id="pausePopup" class="popup-pausa">
+        <div class="popup-pausa-content">
+            <h1 class="title-pausa">MENU DE PAUSA</h1>
+            <button id="resumeButton" class="button-pausa">Resumen</button>
+            <button id="button_settings" class="button-pausa">Configuración</button>
+            <button id="exitButton" class="button-pausa">Regresar al menu</button>
+        </div>
+    </div>
+
+    {% include 'config.html' %}
+
+    <script src="{% static 'js/tablero.js' %}"></script>
+    <script src="{% static 'js/music.js' %}"></script>
+    <script src="{% static 'js/noBack.js' %}"></script>
+    <script src="{% static 'js/block.js' %}"></script>
+    <script src="{% static 'js/block-movil.js' %}"></script>
+</body>
+</html>

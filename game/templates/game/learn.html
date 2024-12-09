@@ -1,0 +1,95 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}" >
+    <title>Aprende</title>
+    <link rel="stylesheet" href="{% static 'css/learn.css' %}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
+</head>
+<body>
+    <!-- Contenedor principal -->
+    <div class="container">
+
+        <!-- Flecha para regresar -->
+        <a href="../../select_mode" class="back-button">
+            <img src="https://cdn-icons-png.flaticon.com/512/5397/5397377.png" alt="Regresar" class="back-icon">
+        </a>
+
+        <!-- Botón de configuración -->
+        <!--
+        <a id="button_settings" class="settings-button">
+            <img src="{% static 'img/icons/settings-icon.png' %}" alt="Configuración" class="settings-icon">
+        </a>
+        -->
+
+        <!-- Título -->
+        <h1 class="title">APRENDE</h1>
+
+        <!-- Sección con las dos cajas -->
+        <div class="content-boxes">
+            <!-- Caja para el dato de piratería -->
+            <div class="pdf-box">
+                <!-- Botón de navegación a PDF anterior -->
+                {% if pdf_index > 0 %}
+                <a href="{% url 'learn' pdf_index|add:'-1' %}" class="nav-button left content-flechas">
+                    <img src="https://cdn-icons-png.flaticon.com/512/271/271220.png" alt="Anterior" class="flechas">
+                </a>
+                {% endif %}
+                
+                <!-- Visor de PDF en iframe -->
+                <!--<div class="pdf-viewer">
+                    <iframe src="/static/pdfs/{{current_pdf}}" class="frame-pdf"></iframe>
+                </div>-->
+
+                <!-- Contenedor para el visor de PDF -->
+                <div id="pdf-container" class="pdf-container">
+                    <canvas id="pdf-canvas"></canvas>
+                </div>
+
+                <!-- Botón de navegación a PDF siguiente -->
+                {% if pdf_index < pdf_count|add:'-1' %}
+                <a href="{% url 'learn' pdf_index|add:'1' %}" class="nav-button right content-flechas">
+                    <img src="https://cdn-icons-png.flaticon.com/512/271/271228.png" alt="Siguiente" class="flechas">
+                </a>
+                {% endif %}
+            </div>
+        </div>
+
+        <!-- Imagen adicional (el loro u otro elemento) -->
+        <div class="side-image">
+            <img src="https://cdn.pixabay.com/photo/2013/07/13/14/03/parrot-162039_1280.png" alt="Loro" class="parrot-image">
+        </div>
+
+    </div>
+
+    <script src="{% static 'js/noBack.js' %}"></script>
+    <script src="{% static 'js/block.js' %}"></script>
+    <script src="{% static 'js/block-movil.js' %}"></script>
+    <script>
+        const pdfUrl = "/static/pdfs/{{ current_pdf }}";
+        const canvas = document.getElementById("pdf-canvas");
+        const ctx = canvas.getContext("2d");
+    
+        // Cargar el PDF
+        pdfjsLib.getDocument(pdfUrl).promise.then(pdf => {
+            console.log("PDF cargado");
+            // Renderizar la primera página
+            pdf.getPage(1).then(page => {
+                const viewport = page.getViewport({ scale: 1 });
+                canvas.width = viewport.width;
+                canvas.height = viewport.height;
+    
+                const renderContext = {
+                    canvasContext: ctx,
+                    viewport: viewport
+                };
+                page.render(renderContext);
+            });
+        });
+    </script>
+    
+</body>
+</html>

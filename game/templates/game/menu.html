@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}" >
+    <title>Menu Principal</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <link rel="stylesheet" href="{% static 'css/menu.css' %}">
+</head>
+<body>
+    <div class="menu-container" id="menu-container"
+         data-day-image="{% static 'img/playa_dia_menu.jpg' %}"
+         data-afternoon-image="{% static 'img/playa_tarde_menu.jpg' %}"
+         data-night-image="{% static 'img/playa_noche_menu.jpg' %}">
+        <!--<p class="main-title">Trampa Cero</p>
+        <p class="subtitle">El Juego</p>-->
+        <img src="{% static 'img/Title_Game.png' %}" alt="Titulo" class="title_img">
+        <div class="button-container">
+            <button id="button_play">Jugar</button>
+            <button id="button_settings">Configuración</button>            
+            <button id="button_about">¿Cómo jugar?</button>
+        </div>
+    </div>
+
+    {% include 'config.html' %}
+
+    <script src="{% static 'js/bg_hour_menu.js' %}"></script>
+    <script src="{% static 'js/menu.js' %}"></script>
+    <script src="{% static 'js/music.js' %}"></script>
+    <script src="{% static 'js/noBack.js' %}"></script>
+    <script src="{% static 'js/block.js' %}"></script>
+    <script src="{% static 'js/block-movil.js' %}"></script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+/* Reiniciar márgenes, padding y border-box */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Estilos generales del body */
+body {
+    background: url('../img/bg_modes/bg_2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Contenedor principal */
+.container {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 15px;
+    padding: 20px;
+    width: 80%;
+    height: 80%;
+    max-width: 1200px;
+    text-align: center;
+    overflow: hidden; /* Evita que el contenido se desborde */
+    position: relative; /* Para poder aplicar transformaciones */
+    transition: transform 1s ease-in-out; /* La transición que moverá el contenedor hacia arriba */
+}
+
+/* Cabecera */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Título */
+h1 {
+    font-size: 48px;
+    color: #333;
+}
+
+/* Iconos */
+.back-arrow, .settings-icon {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+/* Contenido principal */
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15%;
+}
+
+/* Paneles laterales */
+.left-panel, .right-panel {
+    width: 25%;
+}
+
+/* Etiquetas de los formularios */
+.form_label {
+    font-size: 24px;
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Selectores de los formularios */
+select {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 2px solid #333;
+}
+
+/* Panel central */
+.middle-panel {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Imagen del loro */
+.parrot {
+    width: 10rem;
+    margin-bottom: 20px;
+}
+
+/* Botón de jugar */
+.play-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 15px 30px;
+    font-size: 24px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Efecto hover del botón */
+.play-button:hover {
+    background-color: #218838;
+}
+
+/* Clase para la transición hacia arriba */
+.transition-up {
+    transform: translateY(-100vh); /* Mueve el contenido hacia arriba fuera de la pantalla */
+}
+
+.name_player{
+    width: 100%;
+    padding: 5%;
+    font-size: large;
+    border-bottom-color: #000;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    background-color: #ffffff2d;
+}
+
+.data_player{
+    text-align: left;
+    margin-bottom: 10%;
+}
+
+@media (max-height: 768px) {
+    .container{
+        scale: 0.8;
+    }
+    .content{
+        scale: 0.8;
+    }
+}

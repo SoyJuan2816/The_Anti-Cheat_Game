@@ -1,0 +1,89 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}" >
+    <title>Aprende</title>
+    <link rel="stylesheet" href="{% static 'css/about.css' %}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
+</head>
+<body>
+    <!-- Contenedor principal -->
+    <div class="container">
+        <head>
+            <!-- Flecha para regresar -->
+            <a href="../home/" class="back-button">
+                <img src="https://cdn-icons-png.flaticon.com/512/5397/5397377.png" alt="Regresar" class="back-icon">
+            </a>
+    
+            <!-- Botón de configuración -->
+            <a id="button_settings" class="settings-button">
+                <img src="{% static 'img/icons/settings-icon.png' %}" alt="Configuración" class="settings-icon">
+            </a>
+        </head>
+
+        <!-- Título -->
+        <h1 class="title">APRENDE A JUGAR</h1>
+
+        <!-- Sección de información sobre el juego -->
+        <div class="content-boxes">
+            <div class="info-box">
+                <h2 class="section-title">¡Bienvenidos Trampa Cero!</h2>
+                <p class="description">Este juego está diseñado para enseñarte sobre la importancia de respetar la propiedad intelectual y los riesgos de la piratería de una manera divertida y emocionante. En la sección de <strong>aprendizaje</strong>, encontrarás infogramas interesantes que te ayudarán a comprender cómo la piratería afecta a las personas y a las empresas.</p>
+
+                <h3 class="subsection-title">¿Cómo jugar?</h3>
+                <ul class="game-options">
+                    <li><strong>Mapas:</strong> Puedes elegir entre 3 mapas diferentes para jugar, cada uno con su propio estilo y retos.</li>
+                    <li><strong>Tamaño del juego:</strong> Decide cuántas casillas habrá en el mapa:
+                        <ul>
+                            <li>25 casillas (para un juego más rápido)</li>
+                            <li>50 casillas (para un desafío medio)</li>
+                            <li>80 casillas (para los más audaces)</li>
+                        </ul>
+                    </li>
+                    <li><strong>Dificultad:</strong> Elige la dificultad que más te guste:
+                        <ul>
+                            <li><strong>Fácil:</strong> 20 segundos por turno.</li>
+                            <li><strong>Normal:</strong> 15 segundos por turno.</li>
+                            <li><strong>Difícil:</strong> 10 segundos por turno.</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h3 class="subsection-title">Modos de juego:</h3>
+                <ul class="game-modes">
+                    <li><strong>Modo Completo:</strong> El objetivo es ser el primero en llegar a la meta. ¡Corre y responde rápido!</li>
+                    <li><strong>Modo por rondas:</strong> El ganador es quien avance más en el tablero antes de que se acabe el tiempo o llegue a la meta.</li>
+                </ul>
+
+                <h3 class="subsection-title">Comodines y Dados:</h3>
+                <ul class="game-options">
+                    <li>Dependiendo de la dificultad que elijas, podrás usar hasta 3 (uno por turno, no se pueden usar varios en la misma pregunta)<strong>comodines</strong> para ayudarte en el juego.</li>
+                    <li><strong>Dado:</strong> Tira un dado para determinar quién empieza primero. El jugador que saque el número más alto será el primero en moverse.</li>
+                </ul>
+
+                <h3 class="subsection-title">Tarjetas de Preguntas:</h3>
+                <p class="description">Durante el juego, se te presentarán 3 tipos de tarjetas de preguntas:</p>
+                <ul class="question-types">
+                    <li><strong>Fáciles:</strong> Avanzas 1 casilla si respondes correctamente.</li>
+                    <li><strong>Intermedias:</strong> Avanzas 2 casillas si aciertas.</li>
+                    <li><strong>Difíciles:</strong> Avanzas 3 casillas si respondes bien.</li>
+                </ul>
+                <p><strong>¡Cuidado!</strong> Si respondes mal, retrocederás la misma cantidad de casillas que la tarjeta indique.</p>
+
+                <h3 class="highlight-text">¡Prepárate para aprender y divertirte mientras combates la piratería!</h3>
+                <p class="description">Cada jugada te acercará más a la meta y te enseñará valiosas lecciones para cuidar los derechos de autor. ¿Estás listo para el desafío? ¡Que comience el maratón!</p>
+            </div>
+        </div>
+
+    </div>
+
+    {% include 'config.html' %}
+    <script src="{% static 'js/noBack.js' %}"></script>
+    <script src="{% static 'js/block.js' %}"></script>
+    <script src="{% static 'js/music.js' %}"></script>
+    <script src="{% static 'js/block-movil.js' %}"></script>
+</body>
+</html>

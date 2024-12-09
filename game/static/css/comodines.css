@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('../img/bg_modes/bg_2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    height: 80%;
+    max-width: 1200px;
+    overflow: hidden; /* Evita que el contenido se desborde */
+    position: relative; /* Para poder aplicar transformaciones */
+}
+
+h1 {
+    color: #333;
+}
+
+.player-section {
+    margin: 3rem 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* Permite que los elementos se acomoden en varias filas si es necesario */
+}
+
+label {
+    display: flex;
+    flex-direction: column; /* Coloca el input debajo de la imagen */
+    align-items: center;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+input[type="checkbox"] {
+    margin-top: 1rem; /* Espacio pequeño entre el checkbox y la etiqueta */
+    transform: scale(1.5); /* Opcional, para hacer los checkboxes un poco más grandes */
+}
+
+/* Botón de jugar */
+.play-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 15px 30px;
+    font-size: 24px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Efecto hover del botón */
+.play-button:hover {
+    background-color: #218838;
+}
+
+/* Cabecera */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Título */
+h1 {
+    font-size: 48px;
+    color: #333;
+}
+
+/* Iconos */
+.back-arrow, .settings-icon {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.cofre {
+    height: 5rem;
+    width: 6rem;
+    max-width: 120px; /* Limita el tamaño máximo de la imagen */
+}
+
+label{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+
+@media (max-height: 768px) {
+    .container{
+        scale: 0.8;
+    }
+    form{
+        scale: 0.8;
+    }
+    .player-section{
+        margin: 1rem 0;
+    }
+}

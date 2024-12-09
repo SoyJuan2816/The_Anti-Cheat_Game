@@ -1,0 +1,91 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden; /* Evita scroll durante el splash */
+}
+
+.menu-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    background-color: #333; /* Fondo opcional */
+    position: relative;
+    transition: transform 0.5s ease-in-out; /* Transición suave */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.main-title{
+    color: orange;
+    font-size: 6rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-color: white;
+    border-style: dashed;
+    border-radius: 3rem;
+    padding: 0.5rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    background-color: #33333371;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Espacio entre botones */
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 2rem;
+    color: white;
+    background-color: #da7c2f; /* Color de fondo */
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Transición suave en hover */
+    border-color: white;
+    border-style: ridge;
+}
+
+button:hover {
+    background-color: #e7a671; /* Color al pasar el mouse */
+}
+
+button:active {
+    background-color: #a55616; /* Color al hacer clic */
+}
+
+button:focus {
+    outline: none; /* Elimina el borde de enfoque predeterminado */
+}
+
+.subtitle{
+    position: absolute;
+    color: orange;
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 2rem;
+    padding: 1rem;
+    margin: 0rem;
+    background-color: #333333;
+    top: 40%;
+    right: 35%;
+    transform: rotate(-45deg);
+}
+
+.title_img{
+    width: 40%;
+}
+
+@media (max-width: 900px) {
+    .subtitle{
+        right: 5%;
+    }
+}

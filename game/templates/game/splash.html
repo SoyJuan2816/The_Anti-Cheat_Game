@@ -1,0 +1,41 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}" >
+    <title>The Anti-Cheat Game</title>
+    <link rel="stylesheet" href="{% static 'css/splash.css' %}">
+</head>
+<body data-day-image="{% static 'img/playa_dia_menu.jpg' %}"
+    data-afternoon-image="{% static 'img/playa_tarde_menu.jpg' %}"
+    data-night-image="{% static 'img/playa_noche_menu.jpg' %}">
+
+    <div class="splash-container" id="splash-container" 
+         data-day-image="{% static 'img/playa_dia_splash.jpg' %}"
+         data-afternoon-image="{% static 'img/playa_tarde_splash.jpg' %}"
+         data-night-image="{% static 'img/playa_noche_splash.jpg' %}">
+         
+         <!-- Botón Jugar con el ícono del loro -->
+         <button id="play-button" class="play-button">
+            <img src="https://cdn-icons-png.flaticon.com/512/1009/1009988.png" alt="Splash Image">
+        </button>
+        <p id="textInstruction" class="text_press">Presiona a Lorin el Piratin</p>
+
+        <!-- Barra de carga oculta inicialmente -->
+        <div class="progress-container">
+            <div class="progress-bar" id="progress-bar"></div>
+        </div>
+    </div>
+
+    <!-- Elemento para configurar volumen y guardar reproducción -->
+    <audio id="background-music" preload="auto"></audio>
+
+    <script src="{% static 'js/splash.js' %}"></script>
+    <script src="{% static 'js/bg_hour_splash.js' %}"></script>
+    <script src="{% static 'js/noBack.js' %}"></script>
+    <script src="{% static 'js/block.js' %}"></script>
+    <script src="{% static 'js/block-movil.js' %}"></script>
+</body>
+</html>

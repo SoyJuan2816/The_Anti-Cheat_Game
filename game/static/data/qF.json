@@ -1,0 +1,1606 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "¿Qué es la piratería digital?",
+            "options": [
+                "Distribuir contenido sin autorización",
+                "Comprar software sin autorización",
+                "Crear contenido en línea"
+            ],
+            "correctAnswer": "Distribuir contenido sin autorización",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 2,
+            "question": "¿Qué tipo de contenido es comúnmente pirateado?",
+            "options": [
+                "Películas, música, software",
+                "Libros de texto únicamente",
+                "Ropa y zapatos"
+            ],
+            "correctAnswer": "Películas, música, software",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 3,
+            "question": "¿Es ilegal descargar una película sin pagarla de un sitio no autorizado?",
+            "options": [
+                "Sí",
+                "No",
+                "Depende del país"
+            ],
+            "correctAnswer": "Sí",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 4,
+            "question": "¿Qué es un torrent?",
+            "options": [
+                "Un método para compartir archivos",
+                "Un archivo de video",
+                "Una película en alta definición"
+            ],
+            "correctAnswer": "Un método para compartir archivos",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 5,
+            "question": "¿Qué plataforma es conocida por compartir archivos piratas?",
+            "options": [
+                "The Pirate Bay",
+                "Netflix",
+                "YouTube"
+            ],
+            "correctAnswer": "The Pirate Bay",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 6,
+            "question": "¿Qué es un crack en el contexto de software pirata?",
+            "options": [
+                "Un método para saltarse la protección de software",
+                "Un tipo de software libre",
+                "Un virus informático"
+            ],
+            "correctAnswer": "Un método para saltarse la protección de software",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 7,
+            "question": "¿Qué acción describe la piratería de música?",
+            "options": [
+                "Descargar o compartir música sin pagar",
+                "Crear música en casa",
+                "Compartir música en redes sociales"
+            ],
+            "correctAnswer": "Descargar o compartir música sin pagar",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 8,
+            "question": "¿Qué es un software de código cerrado?",
+            "options": [
+                "Un software cuya distribución está controlada",
+                "Un software libre",
+                "Un software de uso gratuito"
+            ],
+            "correctAnswer": "Un software cuya distribución está controlada",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 9,
+            "question": "¿Qué sitio fue popular por distribuir música ilegalmente en los años 2000?",
+            "options": [
+                "Napster",
+                "Spotify",
+                "YouTube"
+            ],
+            "correctAnswer": "Napster",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 10,
+            "question": "¿Cómo se llama la práctica de copiar y vender productos falsificados?",
+            "options": [
+                "Piratería",
+                "Hacking",
+                "Clonación"
+            ],
+            "correctAnswer": "Piratería",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 11,
+            "question": "¿Es legal utilizar software pirata si no se tiene la capacidad de pagarlo?",
+            "options": [
+                "No",
+                "Sí, si es por razones educativas",
+                "Depende del país"
+            ],
+            "correctAnswer": "No",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 12,
+            "question": "¿Qué es un keygen en el mundo de la piratería informática?",
+            "options": [
+                "Un generador de claves de activación ilegales",
+                "Un programa para gestionar claves legales",
+                "Un método de hackeo avanzado"
+            ],
+            "correctAnswer": "Un generador de claves de activación ilegales",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 13,
+            "question": "¿Qué tipo de archivos suelen ser pirateados más comúnmente en plataformas P2P?",
+            "options": [
+                "Software, películas, música",
+                "Documentos de texto",
+                "Redes sociales"
+            ],
+            "correctAnswer": "Software, películas, música",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 14,
+            "question": "¿Es seguro descargar archivos desde sitios de piratería?",
+            "options": [
+                "No, puede haber malware",
+                "Sí, si usas un buen antivirus",
+                "Depende del archivo"
+            ],
+            "correctAnswer": "No, puede haber malware",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 15,
+            "question": "¿Qué es la piratería de software?",
+            "options": [
+                "Descargar o usar software sin licencia legal",
+                "Crear software desde cero",
+                "Comprar software usado"
+            ],
+            "correctAnswer": "Descargar o usar software sin licencia legal",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 16,
+            "question": "¿Qué consecuencias puede tener usar software pirata?",
+            "options": [
+                "Multas, malware, problemas legales",
+                "No hay consecuencias",
+                "Solo una advertencia legal"
+            ],
+            "correctAnswer": "Multas, malware, problemas legales",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 17,
+            "question": "¿Qué es la piratería de contenido digital?",
+            "options": [
+                "Distribuir y usar contenido sin permiso legal",
+                "Comprar contenido en línea",
+                "Crear contenido en línea"
+            ],
+            "correctAnswer": "Distribuir y usar contenido sin permiso legal",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 18,
+            "question": "¿Qué significa el término 'warez'?",
+            "options": [
+                "Software pirateado",
+                "Software legal de prueba",
+                "Un tipo de archivo comprimido"
+            ],
+            "correctAnswer": "Software pirateado",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 19,
+            "question": "¿Es ilegal compartir un archivo con derechos de autor en una plataforma de torrents?",
+            "options": [
+                "Sí",
+                "No",
+                "Solo si es música"
+            ],
+            "correctAnswer": "Sí",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 20,
+            "question": "¿Qué es un archivo '.torrent'?",
+            "options": [
+                "Un archivo que contiene metadatos para descargar contenido compartido",
+                "Un archivo de video",
+                "Un tipo de virus"
+            ],
+            "correctAnswer": "Un archivo que contiene metadatos para descargar contenido compartido",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 21,
+            "question": "¿Qué es un sitio 'de piratería'?",
+            "options": [
+                "Un sitio que distribuye contenido sin autorización",
+                "Un sitio para descargar software legal",
+                "Un sitio de pruebas gratuitas"
+            ],
+            "correctAnswer": "Un sitio que distribuye contenido sin autorización",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 22,
+            "question": "¿Qué es un 'release group' en la piratería digital?",
+            "options": [
+                "Un grupo que distribuye contenido pirateado",
+                "Un grupo de desarrolladores legales",
+                "Un foro de discusión"
+            ],
+            "correctAnswer": "Un grupo que distribuye contenido pirateado",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 23,
+            "question": "¿Es legal copiar un DVD protegido con derechos de autor?",
+            "options": [
+                "No, es ilegal",
+                "Sí",
+                "Solo si es para uso personal"
+            ],
+            "correctAnswer": "No, es ilegal",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 24,
+            "question": "¿Qué herramienta utilizan los piratas informáticos para saltarse la protección de software?",
+            "options": [
+                "Crack o keygen",
+                "Antivirus",
+                "Software legal"
+            ],
+            "correctAnswer": "Crack o keygen",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 25,
+            "question": "¿Qué es la piratería de videojuegos?",
+            "options": [
+                "Descargar o distribuir videojuegos sin pagar",
+                "Crear videojuegos",
+                "Comprar videojuegos de segunda mano"
+            ],
+            "correctAnswer": "Descargar o distribuir videojuegos sin pagar",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 26,
+            "question": "¿Qué es un 'tracker' en el contexto de torrents?",
+            "options": ["Un servidor que coordina la compartición de archivos en una red P2P", "Un tipo de archivo torrent", "Un tipo de malware"],
+            "correctAnswer": "Un servidor que coordina la compartición de archivos en una red P2P",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 27,
+            "question": "¿Es legal descargar música de sitios no autorizados?",
+            "options": ["No", "Sí, si es para uso personal", "Solo si no está protegida por derechos de autor"],
+            "correctAnswer": "No",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 28,
+            "question": "¿Qué es un 'camrip' en la piratería de películas?",
+            "options": ["Un video grabado en el cine con una cámara", "Un video de alta calidad", "Un archivo de audio"],
+            "correctAnswer": "Un video grabado en el cine con una cámara",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 29,
+            "question": "¿Qué significa P2P en el contexto de la piratería?",
+            "options": ["Peer-to-peer, intercambio directo de archivos entre usuarios", "Product-to-Product", "Protección digital"],
+            "correctAnswer": "Peer-to-peer, intercambio directo de archivos entre usuarios",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 30,
+            "question": "¿Qué acción describe la piratería de libros?",
+            "options": ["Escanear y compartir libros sin permiso", "Crear libros digitales", "Leer libros en línea"],
+            "correctAnswer": "Escanear y compartir libros sin permiso",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 31,
+            "question": "¿Es legal compartir software de pago a través de un torrent?",
+            "options": ["No, es ilegal", "Sí", "Depende del software"],
+            "correctAnswer": "No, es ilegal",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 32,
+            "question": "¿Qué es un serial en el contexto de software?",
+            "options": ["Un número único para activar software legal", "Un archivo de configuración", "Un método de hackeo"],
+            "correctAnswer": "Un número único para activar software legal",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 33,
+            "question": "¿Qué término se usa para una copia ilegal de una película?",
+            "options": ["Bootleg", "Screener", "Camrip"],
+            "correctAnswer": "Bootleg",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 34,
+            "question": "¿Qué es un DRM en contenido digital?",
+            "options": ["Una tecnología para proteger el contenido de la piratería", "Un tipo de software libre", "Un archivo de audio"],
+            "correctAnswer": "Una tecnología para proteger el contenido de la piratería",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 35,
+            "question": "¿Qué peligro puede tener descargar archivos pirateados?",
+            "options": ["Infección de virus y malware", "Ninguno, si usas una VPN", "Mejor calidad de contenido"],
+            "correctAnswer": "Infección de virus y malware",
+            "difficulty": "Fácil"
+        },
+
+
+
+
+        {
+            "id": 36,
+            "question": "¿Qué es un keylogger?",
+            "options": ["Un programa que registra las pulsaciones del teclado", "Un crack para saltarse la activación de software", "Un reproductor multimedia", "Una técnica para robar información personal"],
+            "correctAnswer": "Un programa que registra las pulsaciones del teclado",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 37,
+            "question": "¿Qué hace un 'scene release'?",
+            "options": ["Publica contenido pirateado en sitios P2P", "Crea software original", "Analiza la legalidad del contenido", "Descarga música desde plataformas de streaming sin permiso"],
+            "correctAnswer": "Publica contenido pirateado en sitios P2P",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 38,
+            "question": "¿Qué es el cracking en piratería digital?",
+            "options": ["Modificar software para eliminar su protección", "Crear software libre", "Copiar software legalmente", "Descargar software de prueba sin pagar"],
+            "correctAnswer": "Modificar software para eliminar su protección",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 39,
+            "question": "¿Qué es el 'warez scene'?",
+            "options": ["Una comunidad que distribuye software pirata", "Un grupo de desarrolladores legales", "Un foro de seguridad informática", "Un sitio de distribución de software pirata"],
+            "correctAnswer": "Una comunidad que distribuye software pirata",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 40,
+            "question": "¿Qué tipo de tecnología es utilizada para evitar la piratería digital?",
+            "options": ["DRM (Digital Rights Management)", "Torrent", "FTP", "FairPlay de Apple"],
+            "correctAnswer": "DRM (Digital Rights Management)",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 41,
+            "question": "¿Qué es un 'screener' en la piratería de películas?",
+            "options": ["Una versión filtrada antes del lanzamiento oficial", "Un video grabado con una cámara en el cine", "Un archivo comprimido de baja calidad", "Un enlace directo para descargar contenido"],
+            "correctAnswer": "Una versión filtrada antes del lanzamiento oficial",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 42,
+            "question": "¿Cuál de los siguientes es un ejemplo de una tecnología de DRM?",
+            "options": ["FairPlay de Apple", "BitTorrent", "VLC Media Player", "Un intermediario que oculta la identidad del usuario en línea"],
+            "correctAnswer": "FairPlay de Apple",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 43,
+            "question": "¿Qué significa 'seeding' en el contexto de torrents?",
+            "options": ["Subir y compartir un archivo torrent con otros usuarios", "Descargar un archivo torrent", "Borrar un archivo torrent", "Extraer contenido de una fuente original para copiarlo"],
+            "correctAnswer": "Subir y compartir un archivo torrent con otros usuarios",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 44,
+            "question": "¿Qué es un 'rip' en piratería de contenido digital?",
+            "options": ["El proceso de extraer contenido de una fuente original para copiarlo", "Un archivo comprimido en alta calidad", "Un programa de edición de video", "Crear entornos seguros para ejecutar software"],
+            "correctAnswer": "El proceso de extraer contenido de una fuente original para copiarlo",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 45,
+            "question": "¿Es legal compartir una película que has comprado a través de un torrent?",
+            "options": ["No, siempre es ilegal", "Sí, si es para uso privado", "Solo si tienes permiso del dueño de los derechos de autor", "Depende del sitio de torrents"],
+            "correctAnswer": "No, siempre es ilegal",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 46,
+            "question": "¿Qué es un proxy y cómo se usa en la piratería?",
+            "options": ["Un intermediario que oculta la identidad del usuario en línea", "Un servidor para acelerar descargas", "Un archivo de música pirateado", "Un enlace directo para descargar contenido"],
+            "correctAnswer": "Un intermediario que oculta la identidad del usuario en línea",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 47,
+            "question": "¿Qué es la piratería de contenido en streaming?",
+            "options": ["Copiar películas y programas de TV desde un servicio de streaming", "Compartir legalmente contenido en vivo", "Crear contenido para plataformas de video", "Descargar libros electrónicos sin permiso"],
+            "correctAnswer": "Copiar películas y programas de TV desde un servicio de streaming",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 48,
+            "question": "¿Qué significa 'peer' en una red P2P?",
+            "options": ["Un usuario que comparte archivos", "Un servidor central", "Un tipo de software pirata", "Un archivo torrent"],
+            "correctAnswer": "Un usuario que comparte archivos",
+            "difficulty": "Intermedio"
+        },    
+        {
+            "id": 49,
+            "question": "¿Es legal descargar software de prueba sin pagar?",
+            "options": ["Sí, siempre que sea una versión oficial de prueba", "No", "Depende del tipo de software"],
+            "correctAnswer": "Sí, siempre que sea una versión oficial de prueba",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 50,
+            "question": "¿Qué es un 'warez' site?",
+            "options": ["Un sitio de distribución de software pirata", "Un foro de discusión de software", "Una tienda de videojuegos", "Un tipo de archivo malicioso"],
+            "correctAnswer": "Un sitio de distribución de software pirata",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 51,
+            "question": "¿Qué significa 'leeching' en una red P2P?",
+            "options": ["Descargar archivos sin compartir de vuelta", "Subir archivos sin compartir con otros", "Borrar archivos descargados", "Crear archivos piratas"],
+            "correctAnswer": "Descargar archivos sin compartir de vuelta",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 52,
+            "question": "¿Qué es un 'DDL' (Direct Download Link) en el contexto de la piratería?",
+            "options": ["Un enlace directo para descargar contenido sin usar torrents", "Un archivo torrent", "Un formato de archivo de texto", "Un enlace directo para cargar archivos torrent"],
+            "correctAnswer": "Un enlace directo para descargar contenido sin usar torrents",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 53,
+            "question": "¿Qué tipo de archivos suelen estar más protegidos por tecnologías DRM?",
+            "options": ["Música, películas y software", "Documentos de texto", "Redes sociales", "Cuentas de banco"],
+            "correctAnswer": "Música, películas y software",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 54,
+            "question": "¿Es seguro usar sitios de torrents sin protección adicional como VPN?",
+            "options": ["No, es riesgoso", "Sí, no hay riesgos", "Depende del sitio de torrents"],
+            "correctAnswer": "No, es riesgoso",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 55,
+            "question": "¿Qué es una 'VPN' y por qué se usa a menudo en la piratería?",
+            "options": ["Una red privada virtual que oculta la identidad del usuario", "Un software para descargar archivos", "Un tipo de servidor de torrents", "Una red pública virtual"],
+            "correctAnswer": "Una red privada virtual que oculta la identidad del usuario",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 56,
+            "question": "¿Qué es el 'phishing' en relación con la piratería?",
+            "options": ["Una técnica para robar información personal a través de enlaces falsos", "Descargar contenido de forma segura", "Un tipo de archivo pirata", "Una técnica para robo de cosas físicas"],
+            "correctAnswer": "Una técnica para robar información personal a través de enlaces falsos",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 57,
+            "question": "¿Qué es el DMCA (Digital Millennium Copyright Act)?",
+            "options": ["Una ley de Estados Unidos para proteger los derechos de autor en línea", "Un programa de descargas legales", "Un formato de archivo multimedia", "Una ley de México para proteger los derechos de autores de libros"],
+            "correctAnswer": "Una ley de Estados Unidos para proteger los derechos de autor en línea",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 58,
+            "question": "¿Es legal descargar libros electrónicos de sitios no autorizados?",
+            "options": ["Sí, si es para uso personal", "No, es ilegal", "Solo si son libros sin derechos de autor"],
+            "correctAnswer": "No, es ilegal",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 59,
+            "question": "¿Qué es el 'stream ripping'?",
+            "options": ["Descargar música o videos desde plataformas de streaming sin permiso", "Subir contenido a una plataforma de streaming", "Convertir un video a un formato diferente", "Descargar música o videos desde plataformas de streaming con permiso"],
+            "correctAnswer": "Descargar música o videos desde plataformas de streaming sin permiso",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 60,
+            "question": "¿Qué es el 'sandboxing' en relación con la piratería?",
+            "options": ["Crear entornos seguros para ejecutar software sin afectar el sistema", "Un tipo de software libre", "Un método para ocultar la identidad en línea", "Crear entornos seguros para ejecutar software afectando un sistema"],
+            "correctAnswer": "Crear entornos seguros para ejecutar software sin afectar el sistema",
+            "difficulty": "Intermedio"
+        },
+
+
+
+
+        {
+            "id": 61,
+            "question": "¿Qué es un “zero-day” en el contexto de la piratería?",
+            "options": [
+                "Un software sin protección DRM",
+                "Una vulnerabilidad explotada el mismo día de su descubrimiento",
+                "Un archivo torrent sin “seeds”"
+            ],
+            "correctAnswer": "Una vulnerabilidad explotada el mismo día de su descubrimiento",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 62,
+            "question": "¿Qué es un exploit en el contexto de la piratería informática?",
+            "options": [
+                "Un programa para mejorar el rendimiento del sistema",
+                "Un código que aprovecha una vulnerabilidad en software o hardware",
+                "Un crack para juegos"
+            ],
+            "correctAnswer": "Un código que aprovecha una vulnerabilidad en software o hardware",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 63,
+            "question": "¿Qué significa el término “honeypot” en ciberseguridad?",
+            "options": [
+                "Un servidor diseñado para atraer a piratas informáticos y atraparlos",
+                "Un archivo muy popular en redes de torrents",
+                "Un sistema de pago en línea"
+            ],
+            "correctAnswer": "Un servidor diseñado para atraer a piratas informáticos y atraparlos",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 64,
+            "question": "¿Qué es un “rootkit”?",
+            "options": [
+                "Un software de seguridad avanzada",
+                "Un conjunto de herramientas maliciosas diseñadas para otorgar acceso no autorizado a un sistema",
+                "Un crack para software"
+            ],
+            "correctAnswer": "Un conjunto de herramientas maliciosas diseñadas para otorgar acceso no autorizado a un sistema",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 65,
+            "question": "¿Qué es el “código fuente” en software?",
+            "options": [
+                "El código escrito por los programadores que define cómo funciona un programa",
+                "Un archivo de instalación",
+                "Un software pirata"
+            ],
+            "correctAnswer": "El código escrito por los programadores que define cómo funciona un programa",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 66,
+            "question": "¿Qué es el “reverse engineering” en el contexto de la piratería de software?",
+            "options": [
+                "Analizar y modificar software para entender su funcionamiento o eliminar protecciones",
+                "Crear software desde cero",
+                "Descargar contenido desde redes P2P"
+            ],
+            "correctAnswer": "Analizar y modificar software para entender su funcionamiento o eliminar protecciones",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 67,
+            "question": "¿Qué es un “backdoor” en seguridad informática?",
+            "options": [
+                "Un acceso oculto o no autorizado a un sistema",
+                "Un software de cifrado",
+                "Un tipo de malware que destruye archivos"
+            ],
+            "correctAnswer": "Un acceso oculto o no autorizado a un sistema",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 68,
+            "question": "¿Qué es el “malware” en informática?",
+            "options": [
+                "Software diseñado para proteger sistemas",
+                "Cualquier software malicioso que daña o compromete un sistema",
+                "Un tipo de software libre"
+            ],
+            "correctAnswer": "Cualquier software malicioso que daña o compromete un sistema",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 69,
+            "question": "¿Qué significa \"cryptojacking\"?",
+            "options": [
+                "Descargar criptomonedas de forma ilegal",
+                "Usar dispositivos de otras personas para minar criptomonedas sin su consentimiento",
+                "Un método de seguridad para billeteras de criptomonedas"
+            ],
+            "correctAnswer": "Usar dispositivos de otras personas para minar criptomonedas sin su consentimiento",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 70,
+            "question": "¿Qué es el \"ransomware\"?",
+            "options": [
+                "Un software que cifra archivos y pide un rescate para liberarlos",
+                "Un programa que optimiza el rendimiento de un sistema",
+                "Un crack para juegos"
+            ],
+            "correctAnswer": "Un software que cifra archivos y pide un rescate para liberarlos",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 71,
+            "question": "¿Qué es el \"keylogging\"?",
+            "options": [
+                "El registro de las pulsaciones de teclas para obtener información privada",
+                "Un método de cifrado",
+                "Una técnica de defensa cibernética"
+            ],
+            "correctAnswer": "El registro de las pulsaciones de teclas para obtener información privada",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 72,
+            "question": "¿Qué es la \"ingeniería social\" en seguridad informática?",
+            "options": [
+                "Manipular a las personas para obtener información confidencial",
+                "Un proceso de desarrollo de software",
+                "El análisis del comportamiento de usuarios en redes sociales"
+            ],
+            "correctAnswer": "Manipular a las personas para obtener información confidencial",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 73,
+            "question": "¿Qué es un \"spoofing\" en seguridad informática?",
+            "options": [
+                "Falsificar la identidad de un usuario o dispositivo en una red",
+                "La creación de software pirata",
+                "Un tipo de ataque DDoS"
+            ],
+            "correctAnswer": "Falsificar la identidad de un usuario o dispositivo en una red",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 74,
+            "question": "¿Qué es un \"botnet\"",
+            "options": [
+                "Una red de dispositivos comprometidos utilizados para realizar ataques",
+                "Una red de servidores legales",
+                "Un tipo de malware inofensivo"
+            ],
+            "correctAnswer": "Una red de dispositivos comprometidos utilizados para realizar ataques",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 75,
+            "question": "¿Qué es el \"pharming\"",
+            "options": [
+                "Redirigir a los usuarios a sitios web falsos para robar su información",
+                "Un software para crear sitios web",
+                "Un tipo de cifrado de datos"
+            ],
+            "correctAnswer": "Redirigir a los usuarios a sitios web falsos para robar su información",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 76,
+            "question": "¿Qué es un ataque DDoS?",
+            "options": ["Un ataque de denegación de servicio que satura un servidor con tráfico", "Un ataque para robar información personal", "Un método para proteger redes"],
+            "correctAnswer": "Un ataque de denegación de servicio que satura un servidor con tráfico",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 77,
+            "question": "¿Qué es una vulnerabilidad de 'día cero'?",
+            "options": ["Una vulnerabilidad explotada el mismo día de su descubrimiento", "Un error en software libre", "Un crack para juegos"],
+            "correctAnswer": "Una vulnerabilidad explotada el mismo día de su descubrimiento",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 78,
+            "question": "¿Qué es un 'hash' en informática?",
+            "options": ["Un proceso de cifrado de datos", "Un valor único generado a partir de un conjunto de datos", "Un archivo comprimido"],
+            "correctAnswer": "Un valor único generado a partir de un conjunto de datos",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 79,
+            "question": "¿Qué es el 'brute force' en ataques cibernéticos?",
+            "options": ["Un ataque que prueba todas las combinaciones posibles para adivinar una contraseña", "Un ataque que cifra los datos", "Un método para proteger sistemas"],
+            "correctAnswer": "Un ataque que prueba todas las combinaciones posibles para adivinar una contraseña",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 80,
+            "question": "¿Qué es el 'spoofing de IP'?",
+            "options": ["Falsificar la dirección IP de un dispositivo para ocultar su identidad", "Cambiar el proveedor de internet", "Un método de cifrado de datos"],
+            "correctAnswer": "Falsificar la dirección IP de un dispositivo para ocultar su identidad",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 81,
+            "question": "¿Qué es el 'SQL injection'?",
+            "options": ["Un tipo de ataque que inserta código malicioso en una base de datos", "Un método para cifrar datos en bases de datos", "Un software pirata"],
+            "correctAnswer": "Un tipo de ataque que inserta código malicioso en una base de datos",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 82,
+            "question": "¿Qué es un 'exploit kit'?",
+            "options": ["Un conjunto de herramientas para realizar ataques utilizando vulnerabilidades conocidas", "Un paquete de software legal", "Un crack para videojuegos"],
+            "correctAnswer": "Un conjunto de herramientas para realizar ataques utilizando vulnerabilidades conocidas",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 83,
+            "question": "¿Qué es el 'DNS poisoning'?",
+            "options": ["Alterar la caché DNS para redirigir a los usuarios a sitios web falsos", "Cifrar archivos del servidor", "Un proceso para optimizar la velocidad de las conexiones"],
+            "correctAnswer": "Alterar la caché DNS para redirigir a los usuarios a sitios web falsos",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 84,
+            "question": "¿Qué es el 'cross-site scripting' (XSS)?",
+            "options": ["Un ataque en el que se inyecta código malicioso en un sitio web que otros usuarios visitan", "Un tipo de ataque de fuerza bruta", "Un software de piratería"],
+            "correctAnswer": "Un ataque en el que se inyecta código malicioso en un sitio web que otros usuarios visitan",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 85,
+            "question": "¿Qué es un 'zombie' en el contexto de un ataque botnet?",
+            "options": ["Un dispositivo comprometido que se utiliza para realizar ataques sin el conocimiento del propietario", "Un tipo de malware de bajo impacto", "Un archivo dañado en un servidor"],
+            "correctAnswer": "Un dispositivo comprometido que se utiliza para realizar ataques sin el conocimiento del propietario",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 86,
+            "question": "¿Qué significa el término 'white hat' en ciberseguridad?",
+            "options": ["Un hacker ético que ayuda a mejorar la seguridad", "Un pirata informático malicioso", "Un crack para software"],
+            "correctAnswer": "Un hacker ético que ayuda a mejorar la seguridad",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 87,
+            "question": "¿Qué es un 'black hat' en ciberseguridad?",
+            "options": ["Un hacker que utiliza sus habilidades para actividades ilegales", "Un hacker que trabaja para mejorar la seguridad", "Un tipo de crack para videojuegos"],
+            "correctAnswer": "Un hacker que utiliza sus habilidades para actividades ilegales",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 88,
+            "question": "¿Qué es un 'grey hat' en ciberseguridad?",
+            "options": ["Un hacker que opera en una zona ambigua de legalidad", "Un hacker completamente ético", "Un software de seguridad"],
+            "correctAnswer": "Un hacker que opera en una zona ambigua de legalidad",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 89,
+            "question": "¿Qué es un 'bug bounty'?",
+            "options": ["Una recompensa por descubrir y reportar vulnerabilidades en software", "Un programa de piratería", "Un malware que destruye archivos"],
+            "correctAnswer": "Una recompensa por descubrir y reportar vulnerabilidades en software",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 90,
+            "question": "¿Qué es el 'packet sniffing'?",
+            "options": ["Interceptar y analizar datos que se transmiten a través de una red", "Cifrar datos en una red", "Un tipo de ataque DDoS"],
+            "correctAnswer": "Interceptar y analizar datos que se transmiten a través de una red",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 91,
+            "question": "¿Qué es un ataque 'man-in-the-middle'?",
+            "options": ["Un ataque en el que un intruso intercepta la comunicación entre dos partes sin su conocimiento", "Un tipo de cifrado de datos", "Un tipo de ataque de fuerza bruta"],
+            "correctAnswer": "Un ataque en el que un intruso intercepta la comunicación entre dos partes sin su conocimiento",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 92,
+            "question": "¿Qué es un 'Trojan' en informática?",
+            "options": ["Un software malicioso que se oculta como un programa legítimo", "Un tipo de software libre", "Un método de cifrado"],
+            "correctAnswer": "Un software malicioso que se oculta como un programa legítimo",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 93,
+            "question": "¿Qué es un 'watering hole attack'?",
+            "options": ["Un ataque en el que se infectan sitios web que frecuentan los objetivos de interés", "Un tipo de ataque DDoS", "Un programa para ocultar la identidad en línea"],
+            "correctAnswer": "Un ataque en el que se infectan sitios web que frecuentan los objetivos de interés",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 94,
+            "question": "¿Qué es el 'password spraying'?",
+            "options": ["Un ataque que usa contraseñas comunes para atacar varias cuentas de una organización", "Un ataque que prueba todas las combinaciones posibles de una contraseña", "Un tipo de phishing"],
+            "correctAnswer": "Un ataque que usa contraseñas comunes para atacar varias cuentas de una organización",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 95,
+            "question": "¿Qué es un 'honeypot' en ciberseguridad?",
+            "options": ["Un sistema diseñado para atraer a los atacantes y estudiarlos", "Un sistema que protege redes", "Un tipo de malware"],
+            "correctAnswer": "Un sistema diseñado para atraer a los atacantes y estudiarlos",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 96,
+            "question": "¿Qué es el 'sniffing de correo electrónico'?",
+            "options": ["Interceptar y leer correos electrónicos sin el consentimiento del destinatario", "Un tipo de malware que afecta los correos electrónicos", "Un programa de cifrado de correo"],
+            "correctAnswer": "Interceptar y leer correos electrónicos sin el consentimiento del destinatario",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 97,
+            "question": "¿Qué es un 'drive-by download'?",
+            "options": ["Descargar software malicioso automáticamente al visitar un sitio web infectado", "Descargar software gratuito legalmente", "Una técnica de descarga rápida en redes P2P"],
+            "correctAnswer": "Descargar software malicioso automáticamente al visitar un sitio web infectado",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 98,
+            "question": "¿Qué es la 'ciberresiliencia'?",
+            "options": ["La capacidad de una organización para continuar operando a pesar de los ataques cibernéticos", "Un método de cifrado", "Un tipo de firewall"],
+            "correctAnswer": "La capacidad de una organización para continuar operando a pesar de los ataques cibernéticos",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 99,
+            "question": "¿Qué es un 'exploit'?",
+            "options": ["Un software que aprovecha una vulnerabilidad para realizar un ataque", "Un método de defensa de sistemas", "Un tipo de firewall"],
+            "correctAnswer": "Un software que aprovecha una vulnerabilidad para realizar un ataque",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 100,
+            "question": "¿Qué es el 'web scraping'?",
+            "options": ["La extracción de datos de sitios web de manera automatizada", "Un método de defensa en línea", "Un ataque de malware"],
+            "correctAnswer": "La extracción de datos de sitios web de manera automatizada",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 101,
+            "question": "Descargar una película desde un sitio pirata es más económico, pero afecta a los creadores. ¿Qué haces?",
+            "options": [
+                "Pago por verla en una plataforma legal para apoyar a los creadores.",
+                "La descargo porque es gratis y nadie lo notará.",
+                "Espero a que salga en la televisión para verla gratis."
+            ],
+            "correctAnswer": "Pago por verla en una plataforma legal para apoyar a los creadores.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 102,
+            "question": "Encuentras un software caro que necesitas para el trabajo y puedes descargarlo pirata. ¿Qué haces?",
+            "options": [
+                "Lo descargo pirata porque no puedo permitirme el original.",
+                "Busco alternativas gratuitas o versiones con descuento.",
+                "Pido el software prestado a alguien que ya lo compró."
+            ],
+            "correctAnswer": "Busco alternativas gratuitas o versiones con descuento.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 103,
+            "question": "Un amigo te ofrece un videojuego pirata que tú querías. ¿Aceptas?",
+            "options": [
+                "Sí, es una oportunidad para ahorrar dinero.",
+                "No, prefiero comprarlo para respetar el esfuerzo de los desarrolladores.",
+                "Lo acepto, pero solo si me asegura que no hay riesgo de virus."
+            ],
+            "correctAnswer": "No, prefiero comprarlo para respetar el esfuerzo de los desarrolladores.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 104,
+            "question": "Te gusta una serie, pero solo está en una plataforma que no puedes pagar. ¿Qué haces?",
+            "options": [
+                "La descargas ilegalmente y luego decides si pagas.",
+                "No la ves hasta que puedas pagar la suscripción.",
+                "Buscas alguien que te comparta su cuenta."
+            ],
+            "correctAnswer": "No la ves hasta que puedas pagar la suscripción.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 105,
+            "question": "Tu profesor usa software pirata para enseñar. ¿Qué haces?",
+            "options": [
+                "Lo reportas a las autoridades.",
+                "Sugieres buscar alternativas legales o gratuitas para evitar problemas.",
+                "No haces nada porque no es tu responsabilidad."
+            ],
+            "correctAnswer": "Sugieres buscar alternativas legales o gratuitas para evitar problemas.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 106,
+            "question": "Encuentras tu libro favorito en PDF gratis, pero es pirata. ¿Lo descargas?",
+            "options": [
+                "Sí, porque es difícil encontrarlo en físico.",
+                "No, prefiero comprarlo para respetar los derechos del autor.",
+                "Lo descargas, pero si te gusta, compras el libro físico después."
+            ],
+            "correctAnswer": "No, prefiero comprarlo para respetar los derechos del autor.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 107,
+            "question": "Una empresa pequeña pierde dinero debido a la piratería. ¿Qué deberías hacer como consumidor?",
+            "options": [
+                "Buscar siempre lo más barato, incluso si es pirata.",
+                "Comprar productos originales para apoyar a la empresa.",
+                "Ignorar el problema porque no es tu responsabilidad."
+            ],
+            "correctAnswer": "Comprar productos originales para apoyar a la empresa.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 108,
+            "question": "Descargas música de un artista que amas, pero no la pagas. ¿Es correcto?",
+            "options": [
+                "Sí, porque el artista ya gana mucho dinero con conciertos.",
+                "No, porque estás afectando sus ingresos y derechos.",
+                "Depende de si la música está disponible en tu país."
+            ],
+            "correctAnswer": "No, porque estás afectando sus ingresos y derechos.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 109,
+            "question": "Ves a alguien vendiendo copias piratas de una película. ¿Qué haces?",
+            "options": [
+                "Compras porque es más barato.",
+                "No compras y apoyas el contenido original.",
+                "Le adviertes que puede tener problemas legales."
+            ],
+            "correctAnswer": "No compras y apoyas el contenido original.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 110,
+            "question": "Un diseñador sube su trabajo a internet y otros lo descargan sin pagar. ¿Qué opinas?",
+            "options": [
+                "Es justo porque el contenido está disponible gratis.",
+                "Es incorrecto, deberían pagar por el esfuerzo del diseñador.",
+                "Está bien si no se usa para fines comerciales."
+            ],
+            "correctAnswer": "Es incorrecto, deberían pagar por el esfuerzo del diseñador.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 111,
+            "question": "Un amigo te pide que le pases una película pirata que te descargaste. ¿Qué haces?",
+            "options": [
+                "Se la paso porque no quiero que gaste dinero.",
+                "No se la paso, prefiero que pague por el contenido original.",
+                "Le ofrezco alternativas legales o sitios con descuentos."
+            ],
+            "correctAnswer": "No se la paso, prefiero que pague por el contenido original.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 112,
+            "question": "Encuentras una app premium gratuita en un sitio de piratería. ¿La instalas?",
+            "options": [
+                "Sí, porque no me afecta que sea pirata.",
+                "No, busco una opción legal o una versión gratuita.",
+                "Solo la descargo si el desarrollador no tiene versión gratuita."
+            ],
+            "correctAnswer": "No, busco una opción legal o una versión gratuita.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 113,
+            "question": "Un conocido comparte un libro pirata contigo. ¿Lo lees?",
+            "options": [
+                "Lo leo, es más conveniente que comprarlo.",
+                "No lo leo porque quiero respetar los derechos de autor.",
+                "Lo leo, pero solo si no puedo encontrarlo en la librería."
+            ],
+            "correctAnswer": "No lo leo porque quiero respetar los derechos de autor.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 114,
+            "question": "Tienes la oportunidad de conseguir una película que quieres ver gratis en una web pirata. ¿Lo haces?",
+            "options": [
+                "Sí, porque no quiero pagar por algo que puedo conseguir gratis.",
+                "No, espero a que esté disponible legalmente.",
+                "La veo si nadie se entera."
+            ],
+            "correctAnswer": "No, espero a que esté disponible legalmente.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 115,
+            "question": "Un amigo te pide un software pirata que utilizas en el trabajo. ¿Qué haces?",
+            "options": [
+                "Se lo paso porque lo necesita para trabajar.",
+                "Le recomiendo que busque una alternativa gratuita o legal.",
+                "Le digo que no porque podría haber consecuencias legales."
+            ],
+            "correctAnswer": "Le recomiendo que busque una alternativa gratuita o legal.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 116,
+            "question": "Un sitio web te ofrece descargar un videojuego sin pagar. ¿Lo descargas?",
+            "options": [
+                "Sí, no me afecta que sea pirata.",
+                "No, lo compro para apoyar a los creadores del juego.",
+                "Solo lo descargo si el juego no está disponible en mi país."
+            ],
+            "correctAnswer": "No, lo compro para apoyar a los creadores del juego.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 117,
+            "question": "Un influencer promueve un sitio de descargas piratas en sus redes. ¿Qué haces?",
+            "options": [
+                "Lo sigo y descargo sin pensar en las consecuencias.",
+                "Dejo de seguirlo porque no apoyo la piratería.",
+                "Lo sigo, pero trato de evitar esos sitios."
+            ],
+            "correctAnswer": "Dejo de seguirlo porque no apoyo la piratería.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 118,
+            "question": "El restaurante donde trabajas utiliza software pirata para gestionar su negocio. ¿Lo denuncias?",
+            "options": [
+                "No, no es mi problema.",
+                "Lo denuncio porque es ilegal.",
+                "Le sugiero que busque una alternativa legal y más económica."
+            ],
+            "correctAnswer": "Lo denuncio porque es ilegal.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 119,
+            "question": "Encuentras una película que quieres ver en un sitio de streaming pirata. ¿La ves?",
+            "options": [
+                "Sí, porque no quiero pagar por una suscripción.",
+                "No, prefiero esperar a que salga en una plataforma legal.",
+                "La veo pero solo si no hay forma de conseguirla legalmente."
+            ],
+            "correctAnswer": "No, prefiero esperar a que salga en una plataforma legal.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 120,
+            "question": "Alguien te ofrece una cuenta compartida de una plataforma de streaming. ¿La aceptas?",
+            "options": [
+                "Sí, es más barato que pagar por una suscripción.",
+                "No, prefiero pagar mi propia cuenta para apoyar el servicio.",
+                "La acepto, pero solo si es una cuenta oficial de un amigo cercano."
+            ],
+            "correctAnswer": "No, prefiero pagar mi propia cuenta para apoyar el servicio.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 121,
+            "question": "Un artista sube su música a una plataforma y alguien la descarga de un sitio pirata. ¿Qué piensas?",
+            "options": [
+                "No pasa nada, el artista gana mucho dinero de otras formas.",
+                "Es injusto, debería pagar por la música.",
+                "Está bien si la escucho pero luego compro el álbum."
+            ],
+            "correctAnswer": "Es injusto, debería pagar por la música.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 122,
+            "question": "Un estudiante utiliza software pirata para completar sus proyectos. ¿Qué haces?",
+            "options": [
+                "No es un problema, ya que el software es caro.",
+                "Le sugiero buscar alternativas legales o versiones de prueba.",
+                "Le reporto a la administración de la escuela."
+            ],
+            "correctAnswer": "Le sugiero buscar alternativas legales o versiones de prueba.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 123,
+            "question": "El equipo de fútbol que sigues está disponible en un sitio web pirata. ¿Lo ves?",
+            "options": [
+                "Sí, no hay forma de verlo de otro modo.",
+                "No, busco una forma legal de ver el partido.",
+                "Lo veo, pero solo porque no puedo ir al cine en ese momento."
+            ],
+            "correctAnswer": "No, busco una forma legal de ver el partido.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 124,
+            "question": "Un amigo te ofrece una copia pirata de una serie que te encanta. ¿La aceptas?",
+            "options": [
+                "Sí, porque es más barato y conveniente.",
+                "No, prefiero esperar a verla de forma legal.",
+                "La acepto si nadie se da cuenta."
+            ],
+            "correctAnswer": "No, prefiero esperar a verla de forma legal.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 125,
+            "question": "Alguien te muestra un artículo que encontró de manera pirata en internet. ¿Qué opinas?",
+            "options": [
+                "No importa, es información útil que no tiene dueño.",
+                "Es inapropiado, debería haber sido adquirido legalmente.",
+                "Si es algo que no está disponible en otro lugar, lo acepto."
+            ],
+            "correctAnswer": "Es inapropiado, debería haber sido adquirido legalmente.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 126,
+            "question": "Estás por comprar un libro electrónico y ves una versión pirata en línea. ¿Qué haces?",
+            "options": [
+                "La descargo porque es más barato.",
+                "Compro la versión legal para apoyar al autor.",
+                "La descargo pero luego compro el libro físico."
+            ],
+            "correctAnswer": "Compro la versión legal para apoyar al autor.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 127,
+            "question": "Tienes acceso a una película pirata a través de un amigo. ¿La ves?",
+            "options": [
+                "Sí, es más fácil que ir al cine.",
+                "No, prefiero esperar y pagar por una opción legal.",
+                "La veo, pero solo porque no puedo ir al cine en ese momento."
+            ],
+            "correctAnswer": "No, prefiero esperar y pagar por una opción legal.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 128,
+            "question": "Un sitio web tiene una gran oferta de juegos piratas. ¿Los compras?",
+            "options": [
+                "Sí, porque son más baratos que los originales.",
+                "No, siempre trato de apoyar a los desarrolladores de juegos.",
+                "Compro solo los juegos que no están disponibles en mi región."
+            ],
+            "correctAnswer": "No, siempre trato de apoyar a los desarrolladores de juegos.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 129,
+            "question": "Te ofrecen una suscripción pirata a una plataforma de streaming. ¿La tomas?",
+            "options": [
+                "Sí, porque es mucho más barata que la opción legal.",
+                "No, prefiero pagar la suscripción para apoyar el servicio.",
+                "La tomo si es una oferta legítima y no hay problemas legales."
+            ],
+            "correctAnswer": "No, prefiero pagar la suscripción para apoyar el servicio.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 130,
+            "question": "Sabes que un colega usa contenido pirata en su trabajo. ¿Qué haces?",
+            "options": [
+                "No hago nada porque no me afecta directamente.",
+                "Le sugiero que busque opciones legales para evitar problemas.",
+                "Lo denuncio a las autoridades porque es ilegal."
+            ],
+            "correctAnswer": "Le sugiero que busque opciones legales para evitar problemas.",
+            "difficulty": "Fácil"
+        },
+        {
+            "id": 131,
+            "question": "Vas a un evento y descubres que venden entradas falsas a un precio más bajo. ¿Qué haces?",
+            "options": [
+                "Compras la entrada porque es más barata.",
+                "No compras nada porque el evento es importante y debe respetarse.",
+                "Trato de alertar a los organizadores sobre la venta ilegal.",
+                "Compras la entrada, pero sin contarle a nadie que es pirata."
+            ],
+            "correctAnswer": "Trato de alertar a los organizadores sobre la venta ilegal.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 132,
+            "question": "Un software indispensable para tu trabajo tiene una versión cara, pero puedes conseguirla pirata. ¿Qué haces?",
+            "options": [
+                "Lo descargo pirata porque el dinero es un problema.",
+                "Busco una versión gratuita o más económica.",
+                "Lo compro porque sé que los desarrolladores deben ser compensados.",
+                "Pido una licencia a través de una persona de confianza que ya lo haya comprado."
+            ],
+            "correctAnswer": "Lo compro porque sé que los desarrolladores deben ser compensados.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 133,
+            "question": "Un amigo te pasa una película pirata que quieres ver, pero te dice que podría estar mal grabada. ¿La ves?",
+            "options": [
+                "Sí, porque no quiero pagar por verla en el cine.",
+                "No la veo, prefiero esperar a que salga en buena calidad y en una plataforma legal.",
+                "La veo si tiene buenos comentarios y no me importa la calidad.",
+                "La veo solo si tiene subtítulos adecuados."
+            ],
+            "correctAnswer": "No la veo, prefiero esperar a que salga en buena calidad y en una plataforma legal.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 134,
+            "question": "Encuentras un juego que te interesa, pero está en una página de piratería. ¿Lo descargas?",
+            "options": [
+                "Sí, porque no puedo permitir pagar por él.",
+                "No, lo compro para apoyar al creador y obtener la mejor experiencia.",
+                "Solo lo descargo si el desarrollador no ofrece soporte o actualizaciones.",
+                "Lo descargo para probarlo y, si me gusta, lo compro."
+            ],
+            "correctAnswer": "No, lo compro para apoyar al creador y obtener la mejor experiencia.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 135,
+            "question": "Te ofrecen una versión pirata de un libro que querías leer. ¿La tomas?",
+            "options": [
+                "Sí, porque es difícil encontrarlo en tu país.",
+                "No, prefiero esperar y comprar una copia original.",
+                "Lo acepto, pero solo si el autor ya no gana dinero con ese libro.",
+                "Lo acepto, pero solo si no está disponible en ninguna librería cercana."
+            ],
+            "correctAnswer": "No, prefiero esperar y comprar una copia original.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 136,
+            "question": "Un documental que te interesa solo está disponible en una plataforma cara. ¿Qué haces?",
+            "options": [
+                "Lo busco en una web pirata porque no quiero pagar.",
+                "Espero a que salga en una plataforma más accesible o lo compro cuando esté en oferta.",
+                "Lo comparto con un amigo que tiene la suscripción para evitar pagar.",
+                "Busco un resumen o una alternativa similar gratuita."
+            ],
+            "correctAnswer": "Espero a que salga en una plataforma más accesible o lo compro cuando esté en oferta.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 137,
+            "question": "Un profesor de la universidad utiliza materiales piratas para sus clases. ¿Qué haces?",
+            "options": [
+                "No hago nada porque no me afecta.",
+                "Lo reporto a las autoridades académicas.",
+                "Le sugiero que utilice materiales legales y gratuitos disponibles en línea.",
+                "Utilizo los materiales porque no veo daño en ello."
+            ],
+            "correctAnswer": "Lo reporto a las autoridades académicas.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 138,
+            "question": "Tu plataforma de streaming favorita sube una película exclusiva, pero tienes que pagar una suscripción costosa para verla. ¿Qué haces?",
+            "options": [
+                "Busco una alternativa pirata para ver la película sin pagar.",
+                "Pago la suscripción porque apoyo el contenido exclusivo.",
+                "Pido la contraseña de un amigo para compartir la cuenta.",
+                "Espero a que la película esté disponible en una plataforma más barata."
+            ],
+            "correctAnswer": "Pago la suscripción porque apoyo el contenido exclusivo.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 139,
+            "question": "Un familiar te presta una copia pirata de una serie que has querido ver. ¿La ves?",
+            "options": [
+                "Sí, porque es más fácil y rápido.",
+                "No la veo y prefiero pagar por verla legalmente.",
+                "La veo, pero solo porque no tengo otra opción.",
+                "La veo solo si no la puedo conseguir por otros medios."
+            ],
+            "correctAnswer": "No la veo y prefiero pagar por verla legalmente.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 140,
+            "question": "Un colega te ofrece un software pirata para ayudar en tu trabajo. ¿Lo aceptas?",
+            "options": [
+                "Sí, porque es muy costoso y tengo que hacerlo funcionar.",
+                "No, porque prefiero buscar una alternativa legal.",
+                "Lo acepto, pero solo si me aseguro de que no tiene virus.",
+                "Lo acepto, pero decido no usarlo para proyectos importantes."
+            ],
+            "correctAnswer": "No, porque prefiero buscar una alternativa legal.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 141,
+            "question": "Estás desarrollando una app y encuentras un código fuente pirata que puede ahorrar mucho tiempo. ¿Lo usas?",
+            "options": [
+                "Sí, porque es más rápido y barato.",
+                "No, porque prefiero crear el código desde cero o utilizar opciones legales.",
+                "Lo uso, pero modificando el código para no infringir derechos.",
+                "Lo uso solo si los desarrolladores no piden una licencia."
+            ],
+            "correctAnswer": "No, porque prefiero crear el código desde cero o utilizar opciones legales.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 142,
+            "question": "Un amigo comparte su cuenta premium de música contigo. ¿La usas?",
+            "options": [
+                "Sí, es más barato que pagar por una cuenta propia.",
+                "No, prefiero pagar por mi propia cuenta para no infringir las normas.",
+                "La uso, pero solo si es una cuenta compartida por un miembro de la familia.",
+                "La uso, pero dejo de compartirla si la plataforma lo descubre."
+            ],
+            "correctAnswer": "No, prefiero pagar por mi propia cuenta para no infringir las normas.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 143,
+            "question": "Ves que en tu comunidad hay piratería de libros y software. ¿Qué haces?",
+            "options": [
+                "Ignoro el problema porque no me afecta.",
+                "Intento concienciar a las personas sobre las consecuencias de la piratería.",
+                "Participo porque muchos no pueden permitirse comprar los productos originales.",
+                "Compro los productos originales, pero no me importa lo que hagan los demás."
+            ],
+            "correctAnswer": "Intento concienciar a las personas sobre las consecuencias de la piratería.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 144,
+            "question": "Alguien te ofrece una entrada pirata para un concierto al que no puedes asistir. ¿La compras?",
+            "options": [
+                "Sí, porque es más barata y parece real.",
+                "No, prefiero esperar para comprarla de manera legítima.",
+                "La compro, pero solo si no me preocupa el riesgo de perder dinero.",
+                "La compro solo si el evento está agotado."
+            ],
+            "correctAnswer": "No, prefiero esperar para comprarla de manera legítima.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 145,
+            "question": "Te ofrecen una película pirata que está en estreno. ¿Qué haces?",
+            "options": [
+                "La veo porque quiero estar al día con el estreno.",
+                "La evito porque prefiero apoyar el estreno original.",
+                "La veo y luego compro la versión Blu-Ray para apoyar a los creadores.",
+                "La veo solo si no tiene muchas restricciones."
+            ],
+            "correctAnswer": "La evito porque prefiero apoyar el estreno original.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 146,
+            "question": "Una empresa donde trabajas usa software pirata para reducir costos. ¿Qué haces?",
+            "options": [
+                "No hago nada porque todos lo usan.",
+                "Informo a la administración para evitar problemas legales.",
+                "Busco una alternativa legal y la propongo a mis jefes.",
+                "Sigo usándolo sin decir nada porque no es mi responsabilidad."
+            ],
+            "correctAnswer": "Informo a la administración para evitar problemas legales.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 147,
+            "question": "Un amigo te muestra cómo acceder a un software caro gratis usando métodos ilegales. ¿Lo pruebas?",
+            "options": [
+                "Sí, porque es mucho más económico y necesito el software.",
+                "No, prefiero pagar o buscar una alternativa gratuita legal.",
+                "Lo pruebo solo para ver si realmente funciona.",
+                "Lo pruebo, pero solo para uso personal y sin fines comerciales."
+            ],
+            "correctAnswer": "No, prefiero pagar o buscar una alternativa gratuita legal.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 148,
+            "question": "Te ofrecen una cuenta de música premium compartida que no sabes si es legal. ¿La usas?",
+            "options": [
+                "Sí, porque me da acceso a todo el contenido sin pagar.",
+                "No, prefiero pagar por mi propia cuenta para evitar riesgos.",
+                "La uso, pero solo por un tiempo limitado.",
+                "La uso solo si sé que no va a haber consecuencias legales."
+            ],
+            "correctAnswer": "No, prefiero pagar por mi propia cuenta para evitar riesgos.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 149,
+            "question": "Te enteras de que un desarrollador de videojuegos usa contenido pirata para crear su juego. ¿Qué opinas?",
+            "options": [
+                "No importa, porque todos lo hacen.",
+                "Es inaceptable y debería usar solo contenido original.",
+                "Es una práctica común, no es algo tan grave.",
+                "Lo apoyo, porque el contenido pirata suele ser más accesible."
+            ],
+            "correctAnswer": "Es inaceptable y debería usar solo contenido original.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 150,
+            "question": "Un amigo te muestra cómo descargar una serie pirata desde un sitio poco conocido. ¿La descargas?",
+            "options": [
+                "Sí, porque la serie no está en ninguna plataforma legal.",
+                "No, prefiero esperar a que esté disponible legalmente.",
+                "La descargo solo si no tengo otra opción.",
+                "La descargo, pero solo si no tiene demasiados anuncios intrusivos."
+            ],
+            "correctAnswer": "No, prefiero esperar a que esté disponible legalmente.",
+            "difficulty": "Intermedio"
+        },
+        {
+            "id": 151,
+            "question": "Un amigo te invita a un evento y te ofrece una entrada pirata a un precio más bajo. ¿La compras?",
+            "options": ["Sí, porque es más barata y quiero ir.", "No, prefiero esperar para comprar una entrada original.", "La compro, pero solo si el evento está agotado.", "La compro, pero solo si nadie se da cuenta.", "No la compro, porque sé que está mal y prefiero no contribuir a la piratería."],
+            "correctAnswer": "No la compro, porque sé que está mal y prefiero no contribuir a la piratería.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 152,
+            "question": "Te ofrecen una película pirata que quieres ver, pero está en mala calidad. ¿La ves?",
+            "options": ["Sí, porque quiero verla ya.", "No, prefiero esperar a verla en buena calidad de forma legal.", "La veo y luego compro una copia original si me gusta.", "La veo solo si no está disponible en otro lugar.", "La veo, pero solo si tiene subtítulos en mi idioma."],
+            "correctAnswer": "No, prefiero esperar a verla en buena calidad de forma legal.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 153,
+            "question": "Un amigo te pasa un libro electrónico pirata de un autor que te gusta. ¿Lo lees?",
+            "options": ["Sí, porque es difícil encontrarlo en librerías.", "No, prefiero esperar y comprarlo legalmente.", "Lo leo, pero solo si el autor ya no gana dinero con él.", "Lo leo, pero luego compro el libro físico para apoyar al autor.", "Lo leo y luego comparto mi opinión, pero nunca lo distribuyo."],
+            "correctAnswer": "No, prefiero esperar y comprarlo legalmente.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 154,
+            "question": "Un diseñador gráfico comparte su trabajo de forma pirata en internet. ¿Lo descargas?",
+            "options": ["Sí, porque el contenido está disponible y parece ser de libre acceso.", "No, prefiero buscar contenido con licencia abierta.", "No lo descargo, quiero apoyar a los diseñadores comprando su trabajo.", "Lo descargo, pero solo si no lo uso para fines comerciales.", "Lo descargo, pero le doy créditos al diseñador al compartirlo."],
+            "correctAnswer": "No lo descargo, quiero apoyar a los diseñadores comprando su trabajo.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 155,
+            "question": "Estás trabajando en un proyecto y necesitas un software costoso. ¿Lo descargas pirata?",
+            "options": ["Sí, porque no puedo permitirme la licencia.", "No, busco una alternativa gratuita o una versión de prueba.", "Lo compro, ya que el trabajo que hago depende de este software.", "Lo pido prestado a un compañero que ya tiene la licencia.", "Lo comparto con compañeros para que también se beneficien, pero sin lucrar."],
+            "correctAnswer": "Lo compro, ya que el trabajo que hago depende de este software.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 156,
+            "question": "Estás en una clase donde el profesor usa materiales pirata para enseñar. ¿Qué haces?",
+            "options": ["No hago nada, ya que no me afecta directamente.", "Le sugiero usar materiales gratuitos y legales para evitar problemas.", "Lo reporto, porque es ilegal.", "Ignoro el problema porque no afecta mi aprendizaje.", "Le ofrezco alternativas que no infringen derechos de autor."],
+            "correctAnswer": "Le sugiero usar materiales gratuitos y legales para evitar problemas.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 157,
+            "question": "Te ofrecen una cuenta premium compartida de una plataforma de streaming. ¿La usas?",
+            "options": ["Sí, porque es más barata y me da acceso a todo.", "No, prefiero pagar por mi propia cuenta para no infringir las reglas.", "La uso solo si es una cuenta de un familiar cercano.", "La uso, pero solo por un tiempo limitado.", "La uso, pero con la conciencia de que podría estar infringiendo reglas."],
+            "correctAnswer": "No, prefiero pagar por mi propia cuenta para no infringir las reglas.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 158,
+            "question": "Un colega te comparte un videojuego pirata que quieres jugar. ¿Lo aceptas?",
+            "options": ["Sí, porque no quiero gastar dinero en él.", "No, prefiero comprarlo para apoyar a los desarrolladores.", "Lo acepto, pero solo si sé que el desarrollador ya no gana dinero con el juego.", "Lo acepto, pero me comprometo a comprarlo si me gusta mucho.", "Lo acepto, pero me aseguro de que no esté infectado con virus."],
+            "correctAnswer": "No, prefiero comprarlo para apoyar a los desarrolladores.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 159,
+            "question": "Encuentras un sitio que ofrece un software que necesitas, pero es pirata. ¿Lo descargas?",
+            "options": ["Sí, porque necesito el software de inmediato.", "No, busco una alternativa legal o de código abierto.", "Lo descargo, pero solo si es para uso personal y no comercial.", "Lo descargo, pero solo si el software es viejo y no está disponible legalmente.", "Lo descargo, pero le doy crédito al creador original en caso de compartirlo."],
+            "correctAnswer": "No, busco una alternativa legal o de código abierto.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 160,
+            "question": "Ves una oferta de una película que te gusta en un sitio web pirata. ¿La compras?",
+            "options": ["Sí, porque está más barata que en otros sitios.", "No, prefiero pagar por la versión oficial para apoyar a los creadores.", "No la compro, porque sé que es ilegal y perjudica a los creadores.", "La compro, pero solo si no afecta el trabajo del creador.", "La compro si el creador ya no gana dinero con ella."],
+            "correctAnswer": "No la compro, porque sé que es ilegal y perjudica a los creadores.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 161,
+            "question": "Un amigo te pasa un archivo pirata con un software que usas en tu trabajo. ¿Lo instalas?",
+            "options": ["Sí, porque es gratis y no afecta a nadie.", "No, prefiero comprar la versión legal para no tener problemas.", "Lo instalo solo si el software no está disponible en mi país.", "Lo instalo solo si me aseguro de que no contiene virus.", "Lo instalo y luego pago por la versión oficial si el software me es útil."],
+            "correctAnswer": "No, prefiero comprar la versión legal para no tener problemas.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 162,
+            "question": "Un sitio web ofrece una descarga gratuita de un álbum de música. ¿Lo descargas?",
+            "options": ["Sí, porque el artista ya gana mucho dinero con conciertos.", "No, prefiero comprar el álbum para apoyar al artista.", "No lo descargo, porque quiero respetar el trabajo y los derechos de autor.", "Lo descargo solo si el álbum no está disponible en mi país.", "Lo descargo, pero luego compro una copia física del álbum."],
+            "correctAnswer": "No lo descargo, porque quiero respetar el trabajo y los derechos de autor.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 163,
+            "question": "Un conocido te ofrece una copia pirata de una serie que te gusta. ¿La ves?",
+            "options": ["Sí, porque es más fácil y rápido.", "No, prefiero esperar a verla en una plataforma legal.", "No la veo, porque no quiero apoyar la piratería.", "La veo, pero solo si no está disponible en ninguna plataforma.", "La veo, pero luego compro el acceso legal cuando esté disponible."],
+            "correctAnswer": "No la veo, porque no quiero apoyar la piratería.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 164,
+            "question": "Un sitio web de películas piratas ofrece una serie exclusiva que no puedes encontrar en plataformas legales. ¿La ves?",
+            "options": ["Sí, porque no hay otra forma de verla.", "No, prefiero esperar a que esté disponible legalmente.", "La veo y luego compro la serie cuando esté en una plataforma legal.", "La veo, pero solo si no tiene anuncios intrusivos.", "La veo, pero no comparto el enlace con otros."],
+            "correctAnswer": "No, prefiero esperar a que esté disponible legalmente.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 165,
+            "question": "Un amigo te pide que uses un software pirata en un proyecto conjunto. ¿Lo haces?",
+            "options": ["Sí, porque es más barato y no tenemos presupuesto.", "No, prefiero buscar una alternativa legal o gratuita.", "Lo uso, pero solo en proyectos personales y no comerciales.", "Lo uso solo para probar el software y ver si vale la pena comprarlo.", "Lo uso, pero me comprometo a comprarlo si el proyecto tiene éxito."],
+            "correctAnswer": "No, prefiero buscar una alternativa legal o gratuita.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 166,
+            "question": "Te enteras de que una empresa pequeña usa software pirata para reducir costos. ¿Qué haces?",
+            "options": ["No hago nada, ya que no me afecta.", "Le sugiero que compren licencias para evitar problemas legales.", "Les aviso de los riesgos legales, pero sin involucrarme más.", "Lo denuncio a las autoridades para que tomen acciones.", "Les doy soluciones alternativas gratuitas para que no infrinjan la ley."],
+            "correctAnswer": "Le sugiero que compren licencias para evitar problemas legales.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 167,
+            "question": "Un conocido te ofrece una cuenta premium de un servicio de streaming pirata. ¿La aceptas?",
+            "options": [
+                "Sí, porque me da acceso a más contenido sin pagar.",
+                "No, porque podría tener consecuencias legales.",
+                "No la acepto, porque prefiero pagar por mi propia cuenta.",
+                "La acepto solo si es una cuenta compartida de un amigo cercano.",
+                "La acepto, pero con la conciencia de que podría ser ilegal."
+            ],
+            "correctAnswer": "No la acepto, porque prefiero pagar por mi propia cuenta.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 168,
+            "question": "Un amigo te invita a ver una película pirata en su casa. ¿Vas?",
+            "options": [
+                "Sí, porque es más conveniente y barata que ir al cine.",
+                "No voy, porque prefiero apoyar el cine legalmente.",
+                "Voy, pero no compro boletos para otras personas.",
+                "Voy, pero solo si no está disponible en ninguna plataforma legal.",
+                "Voy, pero no le recomiendo a otros que vean piratería."
+            ],
+            "correctAnswer": "No voy, porque prefiero apoyar el cine legalmente.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 169,
+            "question": "Tu profesor utiliza material pirata en sus presentaciones. ¿Qué haces?",
+            "options": [
+                "Le sugiero que utilice recursos legales y gratuitos.",
+                "No hago nada porque no me afecta.",
+                "Lo reporto a la institución.",
+                "Lo ignoro porque no es mi responsabilidad.",
+                "Le ofrezco una lista de alternativas legales que podría usar."
+            ],
+            "correctAnswer": "Le sugiero que utilice recursos legales y gratuitos.",
+            "difficulty": "Difícil"
+        },
+        {
+            "id": 170,
+            "question": "Un autor autopublicado pone su libro a la venta en una plataforma, pero descubres que hay copias piratas circulando. ¿Qué haces?",
+            "options": [
+                "Lo reporto para que se elimine el contenido pirata.",
+                "No hago nada porque no me afecta directamente.",
+                "Lo apoyo comprando el libro legalmente y recomendando al autor.",
+                "Lo comparto de forma gratuita para que otros también apoyen al autor.",
+                "Lo comparto con amigos, pero siempre dejando claro que debe ser comprado oficialmente."
+            ],
+            "correctAnswer": "Lo apoyo comprando el libro legalmente y recomendando al autor.",
+            "difficulty": "Difícil"
+        }    
+    ]
+}

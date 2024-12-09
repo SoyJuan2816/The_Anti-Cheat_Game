@@ -1,0 +1,61 @@
+/* CSS para el popup de configuración */
+.popup {
+    display: none; /* Oculto por defecto */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background-color: #161615c7;
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+    height: 50%;
+    text-align: left;
+}
+
+.items {
+    text-align: center;
+    color: white;
+}
+
+.close-button {
+    cursor: pointer;
+}
+/* Estilo del botón de cierre */
+.close-button {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #ff0000;
+    cursor: pointer;
+}
+
+.close-button:hover {
+    color: #970f0f;
+}
+
+.label_vol{
+    color: white !important;
+    text-align: center !important;
+}
+
+.title_config{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.fa-volume-up, .fa-volume-down, .fa-volume-off, .fa-volume-mute {
+    margin-right: 1rem;
+    font-size: 2rem; /* Ajusta el tamaño del ícono */
+}
+
+#volume-control{
+    width: 60%;
+    height: 1.5rem;
+}
