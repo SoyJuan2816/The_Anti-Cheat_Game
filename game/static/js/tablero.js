@@ -426,7 +426,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Obtener el tiempo límite según la configuración del juego
         const difficultyLevel = itemsCookies.difficulty; // Ejemplo: Fácil, Normal, Difícil
-        const timeLimit = timeLimits[difficultyLevel] || 10; // Predeterminado: 10 segundos
+        const timeLimit = timeLimits[difficultyLevel] || 30; // Predeterminado: 10 segundos
 
          // Inicializar el temporizador visual
         const timerValueElement = document.getElementById("timer-value");
