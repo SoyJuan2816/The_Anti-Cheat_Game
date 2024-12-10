@@ -1,5 +1,5 @@
 /* CSS para el popup de configuración */
-.popup-config {
+.popup-config-main {
     display: none; /* Oculto por defecto */
     position: fixed;
     top: 0;
