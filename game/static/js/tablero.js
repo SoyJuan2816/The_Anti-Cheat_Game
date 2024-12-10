@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let timer; // Variable global para almacenar el temporizador
 
     const players = [
-        { id: "player1", name: "Jugador 1", position: 20, color: "red", diceRoll: 0 , comodin: itemsCookies.comodines.player1 },
+        { id: "player1", name: "Jugador 1", position: 0, color: "red", diceRoll: 0 , comodin: itemsCookies.comodines.player1 },
         { id: "player2", name: "Jugador 2", position: 0, color: "blue", diceRoll: 0, comodin: itemsCookies.comodines.player2 },
     ];
 
