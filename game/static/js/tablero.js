@@ -574,7 +574,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function updateTimerDisplay() {
         const minutes = Math.floor(totalTime / 60);
         const seconds = totalTime % 60;
-        gameTimerElement.textContent = `Tiempo restante: ${minutes}:${seconds < 30 ? "0" : ""}${seconds}`;
+        gameTimerElement.textContent = `Tiempo restante: ${minutes}:${seconds < 10 ? "0" : ""}${seconds}`;
     }
 
     // Temporizador decreciente
